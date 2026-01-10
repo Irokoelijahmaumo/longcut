@@ -42,8 +42,6 @@ export async function middleware(request: NextRequest) {
       'wss://*.supabase.net',
       'wss://*.supabase.com',
       'wss://localhost:54321',
-      'https://app.longcut.ai',
-      'wss://app.longcut.ai',
       'https://*.googleapis.com',
       'https://www.youtube.com',
       'https://api.stripe.com',
